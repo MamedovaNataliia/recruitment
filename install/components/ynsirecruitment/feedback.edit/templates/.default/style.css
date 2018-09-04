@@ -1,0 +1,16 @@
+.edit-form-field-name{
+    width: 100px !important;
+    vertical-align:top;
+    padding-top: 10px;
+}
+.error {
+    font-weight: bold;
+    color: #900;
+}
+#popupAddFeedback .feed-add-post-form{
+    border: solid 1px #b8bcbe;
+}
+.starrequired
+{
+    color:#FF0000;
+}

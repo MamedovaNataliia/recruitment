@@ -1,0 +1,10 @@
+<?
+$MESS["YNSIR_FIELD_COMPARE"] = "Changed the field \"#FIELD#\"";
+$MESS["YNSIR_ADDITIONAL_FIELD_COMPARE"] = "Changed the Additional field \"#FIELD#\"";
+$MESS["YNSIR_ADDITIONAL_FIELD_COMPARE_ADD"] = "Add the field \"#FIELD#\"";
+$MESS["YNSIR_ADDITIONAL_FIELD_COMPARE_REMOVE"] = "Remove the field \"#FIELD#\"";
+$MESS["YNSIR_FIELD_COMPARE_EMPTY"] = "-Empty-";
+
+$MESS["YNSIR_FIELD_OPTION_YES"] = "Yes";
+$MESS["YNSIR_FIELD_OPTION_NO"]  = "No";
+?>

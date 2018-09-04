@@ -1,0 +1,517 @@
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.event {
+    background: url("images/popup/event.gif") no-repeat 0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.quote {
+    background: url("images/popup/quote.png") no-repeat 0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.invoice {
+    background: url("images/popup/invoice.png") no-repeat 0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.deal {
+    background: url("images/popup/deal.gif") no-repeat 0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.task {
+    background: url("images/popup/task.gif") no-repeat 0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.subscribe {
+    background: url("images/popup/subscribe.gif") no-repeat 0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.calendar {
+    background: url("images/popup/calendar.gif") no-repeat 0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.bizproc {
+    background: url("images/popup/bizproc.gif") no-repeat 2px 0 !important;
+    width: 18px !important;
+    height: 18px !important;
+}
+
+a.bizproc {
+    display: block;
+    padding-right: 20px;
+}
+
+a.bizproc_status_attention {
+    background: url("images/bizproc/bizproc_attention.gif") no-repeat right center;
+}
+
+a.bizproc_status_inprogress {
+    background: url("images/bizproc/bizproc_attention.gif") no-repeat right center;
+}
+
+div.rq-multi-val-sep {
+    margin-top: 8px;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {
+        top: -200px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+@keyframes animatetop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+/* The Close Button */
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-header {
+    padding: 2px 6px;
+    background-color: #3bc8f5;
+    color: white;
+}
+
+.modal-body {
+    padding: 2px 10px;
+}
+
+.modal-footer {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}
+
+.popup-window-titlebar {
+    padding: 15px 0px 30px 0px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: justify !important;
+    height: 0px;
+}
+
+.popup-window-titlebar {
+    padding: 15px 0px 30px 0px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: justify !important;
+    height: 0px;
+}
+
+.crm-task-list-head {
+    padding: 0px !important;
+}
+
+.popup-window-titlebar {
+    padding: 15px 0px 45px 0px !important;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: justify !important;
+    height: 0px;
+}
+
+.loader {
+    border: 3px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 3px solid #3498db;
+    width: 15px;
+    height: 15px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+    margin-left: 50%;
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.ynsir-a-convert {
+    /*color: ;*/
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.ynsir-a-convert-failed {
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.bp-status {
+    padding-left: 23px;
+    font-size: 15px;
+    width: 18px;
+    height: 18px;
+    display: -webkit-inline-box;
+    background: url(/bitrix/components/ynsirecruitment/job_order.list/templates/.default/images/bp-sprite.png) no-repeat -27px -61px;
+    color: #61aa00;
+}
+
+.bp-status-failed {
+    padding-left: 19px;
+    font-size: 15px;
+    color: red;
+    width: 18px;
+    height: 18px;
+    display: -webkit-inline-box;
+    background: url(/bitrix/components/ynsirecruitment/job_order.list/templates/.default/images/bp-sprite.png) no-repeat -27px -76px;
+}
+
+.files-storage-block {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+#myBar {
+    /*width: 10%;*/
+    height: 100%;
+    background-color: #4CAF50;
+    text-align: center; /* To center it horizontally (if you want) */
+    line-height: 30px; /* To center it vertically */
+    color: white;
+}
+
+#popupshowModalConvertFromExcel {
+    margin: auto !important;
+}
+
+#mfi-RESUME_EXCEL_FILE-button {
+    margin: auto;
+}
+
+#show_report {
+    width: 100%;
+    text-align: left;
+}
+
+#pagetitle-menu {
+    /*display: block;*/
+}
+
+#lists-title-action {
+    height: 39px;
+    padding: auto;
+}
+
+.webform-small-button-text {
+    line-height: 39px !important;
+}
+
+.bx-filter-button .webform-small-button-icon {
+    margin: 16px -5px 0 11px !important;
+}
+
+#load_samsum {
+    height: 40px;
+}
+
+/*overlay*/
+
+.blob {
+    width: 2rem;
+    height: 2rem;
+    background: #38BDAB;
+    border-radius: 50%;
+    position: absolute;
+    left: calc(50% - 1rem);
+    top: calc(50% - 1rem);
+    box-shadow: 0 0 1rem rgba(255, 255, 255, 0.25);
+}
+
+.blob-2 {
+    -webkit-animation: animate-to-2 1.5s infinite;
+    animation: animate-to-2 1.5s infinite;
+}
+
+.blob-3 {
+    -webkit-animation: animate-to-3 1.5s infinite;
+    animation: animate-to-3 1.5s infinite;
+}
+
+.blob-1 {
+    -webkit-animation: animate-to-1 1.5s infinite;
+    animation: animate-to-1 1.5s infinite;
+}
+
+.blob-4 {
+    -webkit-animation: animate-to-4 1.5s infinite;
+    animation: animate-to-4 1.5s infinite;
+}
+
+.blob-0 {
+    -webkit-animation: animate-to-0 1.5s infinite;
+    animation: animate-to-0 1.5s infinite;
+}
+
+.blob-5 {
+    -webkit-animation: animate-to-5 1.5s infinite;
+    animation: animate-to-5 1.5s infinite;
+}
+
+@-webkit-keyframes animate-to-2 {
+    25%, 75% {
+        -webkit-transform: translateX(-1.5rem) scale(0.75);
+        transform: translateX(-1.5rem) scale(0.75);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+@keyframes animate-to-2 {
+    25%, 75% {
+        -webkit-transform: translateX(-1.5rem) scale(0.75);
+        transform: translateX(-1.5rem) scale(0.75);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+@-webkit-keyframes animate-to-3 {
+    25%, 75% {
+        -webkit-transform: translateX(1.5rem) scale(0.75);
+        transform: translateX(1.5rem) scale(0.75);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+@keyframes animate-to-3 {
+    25%, 75% {
+        -webkit-transform: translateX(1.5rem) scale(0.75);
+        transform: translateX(1.5rem) scale(0.75);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+@-webkit-keyframes animate-to-1 {
+    25% {
+        -webkit-transform: translateX(-1.5rem) scale(0.75);
+        transform: translateX(-1.5rem) scale(0.75);
+    }
+    50%, 75% {
+        -webkit-transform: translateX(-4.5rem) scale(0.6);
+        transform: translateX(-4.5rem) scale(0.6);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+@keyframes animate-to-1 {
+    25% {
+        -webkit-transform: translateX(-1.5rem) scale(0.75);
+        transform: translateX(-1.5rem) scale(0.75);
+    }
+    50%, 75% {
+        -webkit-transform: translateX(-4.5rem) scale(0.6);
+        transform: translateX(-4.5rem) scale(0.6);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+@-webkit-keyframes animate-to-4 {
+    25% {
+        -webkit-transform: translateX(1.5rem) scale(0.75);
+        transform: translateX(1.5rem) scale(0.75);
+    }
+    50%, 75% {
+        -webkit-transform: translateX(4.5rem) scale(0.6);
+        transform: translateX(4.5rem) scale(0.6);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+@keyframes animate-to-4 {
+    25% {
+        -webkit-transform: translateX(1.5rem) scale(0.75);
+        transform: translateX(1.5rem) scale(0.75);
+    }
+    50%, 75% {
+        -webkit-transform: translateX(4.5rem) scale(0.6);
+        transform: translateX(4.5rem) scale(0.6);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+@-webkit-keyframes animate-to-0 {
+    25% {
+        -webkit-transform: translateX(-1.5rem) scale(0.75);
+        transform: translateX(-1.5rem) scale(0.75);
+    }
+    50% {
+        -webkit-transform: translateX(-4.5rem) scale(0.6);
+        transform: translateX(-4.5rem) scale(0.6);
+    }
+    75% {
+        -webkit-transform: translateX(-7.5rem) scale(0.5);
+        transform: translateX(-7.5rem) scale(0.5);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+@keyframes animate-to-0 {
+    25% {
+        -webkit-transform: translateX(-1.5rem) scale(0.75);
+        transform: translateX(-1.5rem) scale(0.75);
+    }
+    50% {
+        -webkit-transform: translateX(-4.5rem) scale(0.6);
+        transform: translateX(-4.5rem) scale(0.6);
+    }
+    75% {
+        -webkit-transform: translateX(-7.5rem) scale(0.5);
+        transform: translateX(-7.5rem) scale(0.5);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+@-webkit-keyframes animate-to-5 {
+    25% {
+        -webkit-transform: translateX(1.5rem) scale(0.75);
+        transform: translateX(1.5rem) scale(0.75);
+    }
+    50% {
+        -webkit-transform: translateX(4.5rem) scale(0.6);
+        transform: translateX(4.5rem) scale(0.6);
+    }
+    75% {
+        -webkit-transform: translateX(7.5rem) scale(0.5);
+        transform: translateX(7.5rem) scale(0.5);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+@keyframes animate-to-5 {
+    25% {
+        -webkit-transform: translateX(1.5rem) scale(0.75);
+        transform: translateX(1.5rem) scale(0.75);
+    }
+    50% {
+        -webkit-transform: translateX(4.5rem) scale(0.6);
+        transform: translateX(4.5rem) scale(0.6);
+    }
+    75% {
+        -webkit-transform: translateX(7.5rem) scale(0.5);
+        transform: translateX(7.5rem) scale(0.5);
+    }
+    95% {
+        -webkit-transform: translateX(0rem) scale(1);
+        transform: translateX(0rem) scale(1);
+    }
+}
+
+#bx-disk-container {
+    text-align: center;
+}
+#folder_toolbar-convertcv{
+    text-align: center;
+}
+.ynsir-show-ext-file-cv {
+    text-align: center !important;
+}
+#bx-disk-container-convertexcel{
+    text-align: center;
+}
+.files-storage{width:200px}
+
+/*.main-grid-settings-window-list-item-label{
+    text-transform: lowercase;
+}
+.main-grid-settings-window-list-item-label:first-letter{
+    text-transform: uppercase;
+}*/

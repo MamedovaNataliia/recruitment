@@ -1,0 +1,13 @@
+.select2{
+    width: 100% !important;
+}
+.crm-client-photo-wrapper {
+    float:left;
+}
+.crm-client-user-def-pic {
+    background: url(images/crm-control-panel-sprite-26.png) no-repeat 2px -610px #535c6a;
+    border-radius: 50%;
+    height: 34px;
+    width: 34px;
+    overflow: hidden;
+}

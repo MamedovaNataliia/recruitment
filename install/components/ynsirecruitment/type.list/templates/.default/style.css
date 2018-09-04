@@ -1,0 +1,289 @@
+.add_new_order {
+    background: transparent;
+    border-radius: 2px;
+    border: none;
+    box-shadow: none;
+    color: #535c69;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    height: 40px;
+    line-height: 38px;
+    min-width: 55px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0 15px;
+    position: relative;
+    vertical-align: middle;
+    -webkit-font-smoothing: antialiased;
+    -webkit-transition: all .25s linear;
+    transition: all .25s linear;
+    background: #bbed21;
+}
+.feed-add-error {
+    margin-right: 2px;
+    background-color: #ffd4d4;
+}
+.feed-add-successfully, .feed-add-error {
+    padding: 19px 15px 16px;
+    position: relative;
+    text-align: center;
+}
+.feed-add-error .feed-add-info-icon {
+    background-position: -109px -56px;
+    margin-top: -3px;
+}
+.feed-add-info-icon {
+    background: url(images/live_feed_sprite_6.png) no-repeat -105px -83px;
+    display: inline-block;
+    height: 21px;
+    margin-right: 10px;
+    vertical-align: top;
+    width: 23px;
+}
+
+.feed-add-info-text {
+    color: #ce0000;
+    display: inline-block;
+    font-size: 15px;
+    position: relative;
+}
+
+.cus-employee {
+    border: solid 1px #ccc;
+    width: 420px;
+    border-radius: 3px;
+    background-color: white;
+    z-index: 1000;
+}
+.alb_drop {
+    float: left;
+    margin-left: 5px;
+    margin-top: -1px;
+    cursor: pointer;
+    display: none;
+}
+.select-employee {
+    text-decoration: underline;
+    margin: 0px 5px 0px 5px;
+}
+
+.close-btn {
+    margin-left: 4px;
+    cursor: pointer;
+}
+
+.popup-window-titlebar {
+    padding: 15px 0px 15px 0px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: justify !important;
+    height: 0px;
+}
+.content-edit-form-field-input-text {
+    border: 1px solid #b9bcbe;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.14) inset;
+    color: #5b5b5b;
+    padding: 2px;
+    height: 28px !important;
+}
+#div_error {
+    margin-top: 15px;
+    color: #000;
+    background: #fee7e7;
+    position: relative;
+    padding: 11px 15px;
+}
+#div_error:before {
+    content: '';
+    width: 16px;
+    height: 16px;
+    background: url(/bitrix/js/tasks/css/images/media.png) no-repeat 0 -232px;
+    float: left;
+    margin-right: 10px;
+}
+.attach-file-icon {
+    background: url(images/files-sprite-2.png) no-repeat 0 -454px!important;
+    padding-left: 23px;
+}
+.feed-add-success {
+    margin-right: 2px;
+    padding: 7px 15px 7px;
+    position: relative;
+    background: inherit;
+    width: 250px;
+    font-size: 14px;
+    text-align: left;
+}
+.feed-add-success:before {
+    background: url(images/live_feed_sprite_6.png) no-repeat -105px -83px;
+    display: inline-block;
+    height: 21px;
+    margin-right: 10px;
+    vertical-align: top;
+    width: 23px;
+    content: "";
+    float: left;
+    margin-top: -2px;
+}
+#copy_error {
+    text-align: center;
+    margin-top: 20px;
+    }
+
+a.skill-activity-suggested
+{
+    display: inline-block;
+    width: 19px;
+    height: 19px;
+    background: url("images/activity-sprite2.png") no-repeat -28px -307px;
+    cursor: default;
+}
+
+table.bx-interface-grid tr a.skill-activity-not-suggested
+{
+    display: inline-block;
+    width: 19px;
+    height: 19px;
+    cursor: pointer;
+}
+
+table.bx-interface-grid tr:hover a.skill-activity-not-suggested
+{
+    background: url("images/activity-sprite2.png") no-repeat -28px -342px;
+}
+
+table.bx-interface-grid tr a.skill-activity-not-suggested:hover
+{
+    background: url("images/activity-sprite2.png") no-repeat -28px -307px;
+}
+.content-edit-form-field-name{
+    width:80px !important;
+    }
+.starrequired {
+    color:red;
+}
+#item-error-label_vn, #item-error-label_en, #item-error-select-type {
+    color: red;
+    font-size: 0.9em;
+    font-style: italic;
+    margin-top: 5px;
+    }
+
+.success {
+    color: green !important;
+}
+
+.hrm-report-list-back:before {
+    content: '';
+    background: url(/bitrix/js/hrm/images/lists-back.svg) no-repeat;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 11px;
+    height: 13px;
+}
+.hrm-report-list-back{
+    position: relative;
+    font-size: 12px;
+    color: #535c69;
+    font-family: 'OpenSans-Regular','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 20px;
+    padding-left: 18px;
+}
+.hrm-report-list-back:hover{
+    color:#535c69
+}
+#strErr {
+    color:red;
+    padding-top:10px;
+}
+.popup-window-with-titlebar .popup-window-content, .popup-window-content-gray .popup-window-content {
+     background-color: inherit !important;;
+    border-bottom: 1px rgba(0,0,0,.05) solid !important;
+}
+#popup-window-content-schema {
+    padding-bottom:0px !important;
+}
+#popup-window-content-popup_info {
+    border-bottom:none !important;
+}
+.popup-window-titlebar span {
+    box-sizing: border-box;
+    color: #80868e;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    max-width: 100%;
+    /*line-height: 49px;*/
+    overflow: hidden;
+    padding: 0 30px 0 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.ynsir-list-summary-wrapper {
+    min-height: 50px;
+    font-size: 0;
+    position: relative;
+    padding-left: 50px;
+}
+div.ynsir-list-summary-wrapper .ynsir-list-photo-wrapper {
+    height: 50px;
+    left: 0;
+    line-height: 50px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 38px;
+}
+.ynsir-list-info-wrapper {
+    display: inline-block;
+    margin: 0!important;
+    vertical-align: middle;
+    font-size: 13px;
+    line-height: 38px;
+}
+.ynsir-list-def-pic {
+    background: url(images/crm-control-panel-sprite-26.png) no-repeat 4px -610px #535c6a;
+    border-radius: 50%;
+    height: 38px;
+    width: 38px;
+    overflow: hidden;
+}
+#pagetitle-menu{
+    display: block;
+}
+#actallrows_ .main-grid-buttons{
+    background-color: #3bc8f5;
+    color: #fff;
+    font-weight:bold;
+}
+#actallrows_ .main-grid-buttons:hover{
+    background-color: #3fddff;
+}
+.main-ui-filter-search input{
+    border: 1px solid #eef2f4;
+}
+.add-container{
+    height: 34px;
+    font-weight: bold;
+    float: right;
+    padding-top: 7px;
+    color: #fff;
+}
+.pagetitle-flexible-space{
+    float: left;
+    height: 50px;
+}
+.webform-small-button{
+    height: 34px !important;
+    line-height: 34px !important;
+}

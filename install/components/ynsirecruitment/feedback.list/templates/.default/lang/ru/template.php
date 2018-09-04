@@ -1,0 +1,27 @@
+<?
+$MESS["YNSIR_ALL"] = "Total";
+
+$MESS["YNSIR_EDIT_BTN"] = "EDIT";
+$MESS["YNSIR_ALL"] = "Total";
+$MESS["YNSIR_SHOW_ROW_COUNT"] = "Show quantity";
+$MESS["YNSIR_ADD_FEEDBACK_BTN"] = "ADD FEEDBACK";
+$MESS["YNSIR_ADD_BTN"] = "ADD";
+$MESS["YNSIR_EDIT_BTN"] = "EDIT";
+$MESS["YNSIR_FEEDBACK_DELETE_BTN"] = "OK";
+$MESS["YNSIR_OK_BTN"] = "OK";
+$MESS["YNSIR_CANCEL_BTN"] = "CANCEL";
+$MESS["YNSIR_FEEDBACK_DELETE_CONFIRM"] = "Delete confirm";
+$MESS['YNSIR_DEL_MES_CONFIRM'] = "Do you sure you want to delete item value ";
+$MESS['YNSIR_FEEDBACK_CHANGE_STATUS_TITLE'] = "Select status:";
+$MESS['YNSIR_FEEDBACK_ERROR'] = "Error! Please try again!";
+$MESS['YNSIR_FEEDBACK_DELETE_SUCCESS'] = "Delete success";
+$MESS['YNSIR_FEEDBACK_CHANGE_STATUS_SUCCESS'] = "Change status success";
+$MESS['YNSIR_FEEDBACK_ORDER_LIST_TOTAL'] = "Total";
+$MESS['YNSIR_ADD_LIST_TITLE'] = 'Add Feedback';
+$MESS['YNSIR_EDIT_LIST_TITLE'] = 'Edit Feedback';
+$MESS['YNSIR_SUCCESS_MESSAGE'] = "successfully";
+$MESS['YNSIR_KEY_NOTIFICATION'] = "Notification";
+$MESS['YNSIR_FEEDBACK_DETAIL'] = "View";
+$MESS['FEEDBACK_BUTTON_CLOSE'] = "Close";
+
+?>

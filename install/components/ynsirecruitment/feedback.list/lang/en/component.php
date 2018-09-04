@@ -1,0 +1,31 @@
+<?
+$MESS["YNSIR_MODULE_NOT_INSTALLED"] = "The CRM module is not installed.";
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "The Business Processes module is not installed.";
+$MESS["YNSIR_PERMISSION_DENIED"] = "Access Denied";
+$MESS["YNSIR_BPLIST"] = "Business Processes";
+$MESS["YNSIR_BP_R_P"] = "Business Processes";
+$MESS["YNSIR_BP_R_P_TITLE"] = "View the contact's business processes";
+$MESS["YNSIR_TASKS"] = "Tasks";
+$MESS["YNSIR_PRESET_CHANGE_TODAY"] = "Modified Today";
+$MESS["YNSIR_PRESET_CHANGE_YESTERDAY"] = "Modified Yesterday";
+$MESS["YNSIR_PRESET_CHANGE_MY"] = "Modified by Me";
+$MESS["YNSIR_PRESET_MY"] = "My Contacts";
+$MESS["CRM_CONTACT_NAV_TITLE_LIST"] = "Candidate";
+$MESS["CRM_CONTACT_NAV_TITLE_LIST_SHORT"] = "Candidate";
+$MESS["YNSIR_TASK_TITLE_PREFIX"] = "CRM:";
+$MESS["YNSIR_TASK_TAG"] = "crm";
+$MESS["YNSIR_INTERNAL"] = "CRM";
+$MESS["YNSIR_IG_TITLE_FULL_NAME"] = "Full Name";
+$MESS["YNSIR_TITLE_ACTIVITY"] = "Activity";
+$MESS["YNSIR_FEEDBACK_ID"] = "ID";
+$MESS["YNSIR_FEEDBACK_TITLE"] = "Title";
+$MESS["YNSIR_FEEDBACK_CANDIDATE_ID"] = "Candidate";
+$MESS["YNSIR_FEEDBACK_JOB_ORDER_ID"] = "Job Order";
+$MESS["YNSIR_FEEDBACK_ROUND_ID"] = "Round";
+$MESS["YNSIR_FEEDBACK_DESCRIPTION"] = "Description";
+$MESS["YNSIR_FEEDBACK_MODIFIED_DATE"] = "Modified Date";
+$MESS["YNSIR_FEEDBACK_CREATED_DATE"] = "Created Date";
+$MESS["YNSIR_FEEDBACK_CREATED_BY"] = "Author";
+$MESS["YNSIR_FEEDBACK_MODIFIED_BY"] = "Modified By";
+$MESS["YNSIR_ROUND_LABEL"] = "Round #ROUND_INDEX#";
+?>

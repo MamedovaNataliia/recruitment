@@ -1,0 +1,30 @@
+DROP TABLE IF EXISTS `b_ynsir_candidate`;
+DROP TABLE IF EXISTS `b_ynsir_file`;
+DROP TABLE IF EXISTS `b_ynsir_role`;
+DROP TABLE IF EXISTS `b_ynsir_role_perms`;
+DROP TABLE IF EXISTS `b_ynsir_role_relation`;
+-- DROP TABLE IF EXISTS `b_hrm_type_list`;
+
+DROP TABLE IF EXISTS `b_ynsir_act`;
+DROP TABLE IF EXISTS `b_ynsir_act_bind`;
+DROP TABLE IF EXISTS `b_ynsir_act_channel_stat`;
+DROP TABLE IF EXISTS `b_ynsir_act_comm`;
+DROP TABLE IF EXISTS `b_ynsir_act_elem`;
+DROP TABLE IF EXISTS `b_ynsir_act_mail_meta`;
+DROP TABLE IF EXISTS `b_ynsir_act_stat`;
+DROP TABLE IF EXISTS `b_ynsir_usr_act`;
+DROP TABLE IF EXISTS `b_ynsir_event`;
+DROP TABLE IF EXISTS `b_ynsir_event_relations`;
+DROP TABLE IF EXISTS `b_ynsir_mail_template`;
+DROP TABLE IF EXISTS `b_ynsir_entity_perms`;
+DROP TABLE IF EXISTS `b_ynsir_usr_act_attendees`;
+DROP TABLE IF EXISTS `b_ynsir_candidate_field_multiple`;
+DROP TABLE IF EXISTS `b_ynsir_job_order_template`;
+DROP TABLE IF EXISTS `b_ynsir_associate_job`;
+DROP TABLE IF EXISTS `b_ynsir_job_order`;
+DROP TABLE IF EXISTS `b_ynsir_user_relation`;
+DROP TABLE IF EXISTS `b_ynsir_interview_round`;
+DROP TABLE IF EXISTS `b_ynsir_jo_status`;
+DROP TABLE IF EXISTS `b_ynsir_bp_perms`;
+DROP TABLE IF EXISTS `b_ynsir_feedback`;
+

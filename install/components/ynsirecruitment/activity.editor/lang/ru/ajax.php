@@ -1,0 +1,29 @@
+<?
+$MESS["YNSIR_ACTION_DEFAULT_SUBJECT"] = "New activity (#DATE#)";
+$MESS["YNSIR_CALL_ACTION_DEFAULT_SUBJECT"] = "New phone call (#DATE#)";
+$MESS["YNSIR_MEETING_ACTION_DEFAULT_SUBJECT"] = "New meeting (#DATE#)";
+$MESS["YNSIR_EMAIL_ACTION_DEFAULT_SUBJECT"] = "New e-mail (#DATE#)";
+$MESS["YNSIR_TITLE_EMAIL_SUBJECT"] = "Subject";
+$MESS["YNSIR_TITLE_EMAIL_FROM"] = "From";
+$MESS["YNSIR_TITLE_EMAIL_TO"] = "To";
+$MESS["YNSIR_COMMUNICATION_TAB_CANDIDATE"] = "Candidate";
+//$MESS["YNSIR_COMMUNICATION_TAB_DEAL"] = "Deal";
+$MESS["YNSIR_COMMUNICATION_TAB_COMPANY"] = "Company";
+$MESS["YNSIR_COMMUNICATION_TAB_CONTACT"] = "Contact";
+$MESS["YNSIR_ACTIVITY_EMAIL_EMPTY_FROM_FIELD"] = "Please specify the message sender.";
+$MESS["YNSIR_ACTIVITY_EMAIL_EMPTY_TO_FIELD"] = "Please specify the message recipient.";
+$MESS["YNSIR_ACTIVITY_INVALID_EMAIL"] = "'#VALUE#' is not a valid e-mail address.";
+$MESS["YNSIR_ACTIVITY_RESPONSIBLE_NOT_FOUND"] = "Cannot find a user responsible for this activity.";
+$MESS["YNSIR_INCOMING_CALL_ACTION_DEFAULT_SUBJECT_EXT"] = "Incoming call #TITLE#";
+$MESS["YNSIR_OUTGOING_CALL_ACTION_DEFAULT_SUBJECT_EXT"] = "Outgoing call #TITLE#";
+$MESS["YNSIR_MEETING_ACTION_DEFAULT_SUBJECT_EXT"] = "Meeting with #TITLE#";
+$MESS["YNSIR_PERMISSION_DENIED"] = "Access denied";
+$MESS["YNSIR_EMAIL_ACTION_DEFAULT_DESCRIPTION"] = "[no text]";
+$MESS["YNSIR_CONTACT_UPDATE_PERMISSION_DENIED"] = "You do not have permission to edit activites of the contact #TITLE#\". Please contact your intranet administrator.";
+$MESS["YNSIR_COMPANY_UPDATE_PERMISSION_DENIED"] = "You do not have permission to edit activites of the company #TITLE#\". Please contact your intranet administrator.";
+$MESS["YNSIR_LEAD_UPDATE_PERMISSION_DENIED"] = "You do not have permission to edit activites of the lead #TITLE#\". Please contact your intranet administrator.";
+$MESS["YNSIR_DEAL_UPDATE_PERMISSION_DENIED"] = "You do not have permission to edit activites of the deal #TITLE#\". Please contact your intranet administrator.";
+$MESS["YNSIR_ACTIVITY_COULD_NOT_CREATE_POSTING"] = "Cannot register the e-mail message.";
+$MESS["YNSIR_ACTIVITY_COULD_NOT_SAVE_POSTING_FILE"] = "Cannot attach the \"#FILE_NAME#\" to the message.";
+$MESS["YNSIR_ACTIVITY_EMAIL_CREATION_CANCELED"] = "E-mail message canceled.";
+?>

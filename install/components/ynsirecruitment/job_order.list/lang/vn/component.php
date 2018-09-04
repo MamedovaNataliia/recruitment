@@ -1,0 +1,51 @@
+<?
+$MESS["YNSIR_MODULE_NOT_INSTALLED"] = "The CRM module is not installed.";
+$MESS["BIZPROC_MODULE_NOT_INSTALLED"] = "The Business Processes module is not installed.";
+$MESS["YNSIR_PERMISSION_DENIED"] = "Access Denied";
+$MESS["YNSIR_BPLIST"] = "Business Processes";
+$MESS["YNSIR_BP_R_P"] = "Business Processes";
+$MESS["YNSIR_BP_R_P_TITLE"] = "View the contact's business processes";
+$MESS["YNSIR_TASKS"] = "Tasks";
+$MESS["YNSIR_PRESET_CHANGE_TODAY"] = "Modified Today";
+$MESS["YNSIR_PRESET_CHANGE_YESTERDAY"] = "Modified Yesterday";
+$MESS["YNSIR_PRESET_CHANGE_MY"] = "Modified by Me";
+$MESS["YNSIR_PRESET_MY"] = "My Contacts";
+$MESS["CRM_CONTACT_NAV_TITLE_LIST"] = "Candidate";
+$MESS["CRM_CONTACT_NAV_TITLE_LIST_SHORT"] = "Candidate";
+$MESS["YNSIR_TASK_TITLE_PREFIX"] = "CRM:";
+$MESS["YNSIR_TASK_TAG"] = "crm";
+$MESS["YNSIR_INTERNAL"] = "CRM";
+$MESS["YNSIR_IG_TITLE_FULL_NAME"] = "Full Name";
+$MESS["YNSIR_TITLE_ACTIVITY"] = "Activity";
+
+/* lichtv */
+$MESS["YNSIR_CJOL_FIELD_ID"] =  "ID";
+$MESS["YNSIR_CJOL_FIELD_CREATED_BY"] =  "Created by";
+$MESS["YNSIR_CJOL_FIELD_MODIFIED_BY"] =  "Modified by";
+$MESS["YNSIR_CJOL_FIELD_DATE_CREATE"] =  "Created date";
+$MESS["YNSIR_CJOL_FIELD_DATE_MODIFY"] =  "Modified date";
+$MESS["YNSIR_CJOL_FIELD_HEADCOUNT"] =  "Headcount";
+$MESS["YNSIR_CJOL_FIELD_TITLE"] =  "Title";
+$MESS["YNSIR_CJOL_FIELD_DEPARTMENT"] =  "Department";
+$MESS["YNSIR_CJOL_FIELD_EXPECTED_END_DATE"] =  "Expected end date";
+$MESS["YNSIR_CJOL_FIELD_STATUS"] =  "Status";
+$MESS["YNSIR_CJOL_FIELD_VACANCY_REASON"] =  "Vacancy reason";
+$MESS["YNSIR_CJOL_FIELD_TYPE"] =  "Type";
+$MESS["YNSIR_CJOL_FIELD_TYPE_REPLACE"] =  "Replace";
+$MESS["YNSIR_CJOL_FIELD_TYPE_NEW"] =  "New";
+$MESS["YNSIR_CJOL_FIELD_SALARY_FROM"] =  "Salary froM";
+$MESS["YNSIR_CJOL_FIELD_SALARY_TO"] =  "Salary to";
+$MESS["YNSIR_CJOL_FIELD_TEMPLATE"] =  "Template";
+$MESS["YNSIR_CJOL_FIELD_DESCRIPTION"] =  "Description";
+$MESS["YNSIR_CJOL_FIELD_SUPERVISOR"] =  "Supervisor";
+$MESS["YNSIR_CJOL_FIELD_OWNER"] =  "Owner";
+$MESS["YNSIR_CJOL_FIELD_RECRUITER"] =  "Recruiter";
+$MESS["YNSIR_CJOL_FIELD_INTERVIEW"] =  "Interview";
+$MESS["YNSIR_CJOL_FIELD_SUBORDINATE"] =  "Subordinate";
+$MESS["YNSIR_CJOL_FIELD_IS_REPLACE_YES"] =  "Yes";
+$MESS["YNSIR_CJOL_FIELD_IS_REPLACE_NO"] =  "No";
+$MESS["YNSIR_CJOL_FIELD_SALARY"] =  "Salary";
+$MESS["YNSIR_CJOL_FIELD_LEVEL"] =  "Level";
+$MESS["YNSIR_CJOL_FIELD_TYPE_REPLACE_TITLE"] =  "Replace";
+$MESS["YNSIR_CJOL_FIELD_TYPE_NEW_TITLE"] =  "New";
+?>

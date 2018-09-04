@@ -1,0 +1,19 @@
+<?
+$MESS["YNSIR_PERMS_PERM_ADD"] = "User can edit settings";
+$MESS["YNSIR_PERMS_BUTTONS_SAVE"] = "Save";
+$MESS["YNSIR_PERMS_BUTTONS_APPLY"] = "Apply";
+$MESS["YNSIR_PERMS_HEAD_ENTITY"] = "Entity";
+$MESS["YNSIR_PERMS_HEAD_ADD"] = "Add";
+$MESS["YNSIR_PERMS_HEAD_WRITE"] = "Update";
+$MESS["YNSIR_PERMS_HEAD_READ"] = "Read";
+$MESS["YNSIR_PERMS_HEAD_DELETE"] = "Delete";
+$MESS["YNSIR_PERMS_FILED_NAME"] = "Role";
+$MESS["YNSIR_PERMS_DLG_MESSAGE"] = "Are you sure you want to delete it?";
+$MESS["YNSIR_PERMS_DLG_TITLE"] = "Delete role";
+$MESS["YNSIR_PERMS_DLG_BTN"] = "Delete";
+$MESS["YNSIR_PERMS_ROLE_DELETE"] = "Delete role";
+$MESS["YNSIR_PERMS_PERM_INHERIT"] = "Inherit";
+$MESS["YNSIR_PERMS_HEAD_EXPORT"] = "Export";
+$MESS["YNSIR_PERMS_HEAD_IMPORT"] = "Import";
+$MESS["YNSIR_PERMS_BACK"] = "Back";
+?>

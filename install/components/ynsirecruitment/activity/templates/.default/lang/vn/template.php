@@ -1,0 +1,34 @@
+<?
+$MESS['LIST_COLOR_TITLE'] = 'Danh sách màu';
+$MESS['LIST_COLOR_CREATE'] = 'Tạo mới màu';
+$MESS['ADD_COLOR_EMPTY_NAME'] = 'Tên màu không được để trống.';
+$MESS['ADD_COLOR_EMPTY_CODE'] = 'Mã màu không được để trống.';
+$MESS['ADD_COLOR_EMPTY_HEX'] = 'Mã banton không được để trống.';
+$MESS['ADD_COLOR_SHORT_NAME'] = 'Tên màu phải có ít nhất 2 kí tự.';
+$MESS['ADD_COLOR_EXIST_CODE'] = 'Mã màu đã tồn tại.';
+$MESS['ADD_COLOR_INVALID_HEX'] = 'Mã banton không hợp lệ.';
+$MESS['ADD_COLOR_INVALID_LENGTH_CODE'] = 'Mã màu phải có ít nhất 5 ký tự, nhiều nhất 15 kí tự.';
+$MESS['ADD_COLOR_CODE_HAVE_SPACE'] = 'Mã màu không có kí tự khoảng trắng.';
+$MESS['ADD_COLOR_CODE_HAVE_SPECIAL_CHARACTER'] = 'Mã màu không có kí tự đặc biệt.';
+$MESS['SUP_CONFIRM_DELETE'] = 'Bạn có muốn xoá màu?';
+$MESS['SUP_DELETE'] = 'Xoá màu!';
+$MESS['DH_COLOR_NAME'] = 'TÊN MÀU';
+$MESS['DH_COLOR_CODE'] = 'MÃ MÀU';
+$MESS['DH_COLOR_IMAGE'] = 'HÌNH ẢNH';
+$MESS['DH_COLOR_HEX'] = 'MÃ BANTON';
+$MESS['IMPORT_COLOR'] = 'Nhập màu vật liệu';
+$MESS['IMPORT_COLOR_FROM_FILE'] = 'Nhập từ file';
+$MESS['EXPORT_COLOR_TO_FILE'] = 'Xuất ra file';
+$MESS['SELECT_FILE_IMPORT'] = 'Chọn file để nhập';
+$MESS['FILE_IMPORT_EMPTY'] = 'Vui lòng chọn file để nhập';
+$MESS['BUTTON_IMPORT_TEXT'] = 'Nhập';
+$MESS['BUTTON_CANCEL_TEXT'] = 'Hủy';
+$MESS['BUTTON_DELETE_TEXT'] = 'Xóa';
+$MESS['NAME'] = 'TÊN MÀU';
+$MESS['CODE'] = 'MÃ MÀU';
+$MESS['IMAGE'] = 'HÌNH ẢNH';
+$MESS['HEX'] = 'MÃ BANTON';
+$MESS['ACTIVATE'] = 'TRẠNG THÁI';
+$MESS['Total'] = 'Tổng';
+$MESS['FILE_SUPPORTED'] = 'Hỗ trợ file với phần mở rộng *.xls, *xlsx, *.csv';
+?>

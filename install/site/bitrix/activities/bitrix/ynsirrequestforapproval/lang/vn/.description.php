@@ -1,0 +1,37 @@
+<?
+$MESS["BPRIORA_DESCR_NAME"] = "Tích hợp gửi yêu cầu tuyển dụng";
+$MESS["BPRIORA_DESCR_DESCR"] = "Tích hợp gửi yêu cầu tuyển dụng";
+$MESS["BPRIORA_ID"] = "Id";
+$MESS["BPRIORA_TYPE"] = "Type";
+$MESS["BPRIORA_CODE"] = "Code";
+$MESS["BPRIORA_COMMENT"] = "Comment";
+$MESS["BPRIORA_DATE"] = "Integration time";
+$MESS["BPRIORA_DATE_FORMAT"] = "Date-time format";
+$MESS["BPRIORA_USER_REQUEST"] = "User request";
+$MESS["BPRIORA_DETAIL_LINK"] = "Detail link";
+$MESS["BPRIORA_HISTORY_LINK"] = "History link";
+$MESS["BPRIORA_PROCESS_STATUS"] = "Trạng thái tiến trình";
+$MESS["OID"] = "Id";
+$MESS["OTITLE"] = "Title";
+$MESS["OCOMPANY"] = "Company";
+$MESS["ODEPARTMENT"] = "Department";
+$MESS["OCONTACT"] = "Contact";
+$MESS["ORECRUITER"] = "Recruiter";
+$MESS["OSTARTDATE"] = "StartDate";
+$MESS["ODURATION"] = "Duration";
+$MESS["ODURATIONTYPE"] = "DurationType";
+$MESS["OSTATUS"] = "Status";
+$MESS["OTYPE"] = "Type";
+$MESS["OSALARY"] = "Salary";
+$MESS["OOPENNING"] = "Openning";
+$MESS["OURGENT"] = "Urgent";
+$MESS["OPOSTJOB"] = "PostJob";
+$MESS["ODESCIPTION"] = "Desciption";
+$MESS["OINTERNALNOTES"] = "InternalNotes";
+$MESS["OFILEID"] = "FileID";
+$MESS["ODETAILLINK"] = "DetailLink";
+$MESS["OINTEGRATIONTIME"] = "IntegrationTime";
+$MESS["ODATETIMEFORMAT"] = "DateTimeFormat";
+$MESS["OUSERREQUEST"] = "UserRequest";
+$MESS["OPROCESSSTATUS"] = "ProcessStatus";
+?>

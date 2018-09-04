@@ -1,0 +1,3 @@
+<?
+$MESS["YNSIR_ASSOCIATE_VIEW_ROW_COUNT"] = "Total: #ROW_COUNT#";
+?>

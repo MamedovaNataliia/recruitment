@@ -1,0 +1,17 @@
+<?
+$MESS['YNSIR_CCE_TITLE'] = 'Candidate';
+$MESS['YNSIR_CCE_EDIT'] = 'Edit';
+$MESS['YNSIR_CCE_NEW'] = 'New';
+$MESS['YNSIR_CCE_SAVE'] = 'Save';
+$MESS['YNSIR_CCE_DUPLICATE'] = 'Duplicate';
+$MESS["YNSIR_ERROR_ADDITIONAL_FIELD"] = "The \"#FIELD#\" field is incorrect. ";
+
+$MESS["YNSIR_TYPE_CONTENT_DATE"] = "";
+$MESS["YNSIR_TYPE_CONTENT_STRING"] = "";
+$MESS["YNSIR_TYPE_CONTENT_NUMBER"] = "";
+$MESS["YNSIR_TYPE_CONTENT_USER"] = "";
+$MESS["YNSIR_PERMISSION_DENIED"] = "Access deny";
+$MESS['YNSIR_EDIT_ELEMENT_NOT_FOUND'] = 'Candidate not found.';
+
+
+?>

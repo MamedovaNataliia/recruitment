@@ -1,0 +1,55 @@
+<?
+$MESS['YNSIR_CJOD_NEW_TITLE'] = 'New Job Order';
+$MESS['YNSIR_CJOD_EDIT_TITLE'] = 'Edit Job Order';
+$MESS['YNSIR_CJOD_ACCESS_DENIED'] = 'Access denied';
+$MESS['YNSIR_CJOD_JOB_ORDER_NOT_FOUND'] = 'Job order not found.';
+
+$MESS['YNSIR_CJOE_BTN_BACK'] = 'Back';
+$MESS['YNSIR_CJOE_NAME_LABEL'] = 'Name';
+$MESS['YNSIR_CJOE_SAVE_BUTTON'] = 'Save';
+$MESS['YNSIR_CJOE_CANCEL_BUTTON'] = 'Cancel';
+$MESS['YNSIR_CJOE_TEMPLATE_SAVE_TITLE'] = 'New template.';
+$MESS['YNSIR_CJOE_TEMPLATE_NEW_NOTE'] = 'The template is waiting for active.';
+$MESS["YNSIR_CJOE_T_NAME_VALIDATE"] = "Field \"Name\" is required and must more than 10 characters.";
+$MESS["YNSIR_CJOE_T_CONTENT_VALIDATE"] = "Content template is required and must more than 100 characters.";
+$MESS["YNSIR_CJOE_T_INTERVIEW_ROUND_TITLE"] = "Interview round";
+$MESS["YNSIR_CJOE_BASIC"] = "Basic";
+$MESS["YNSIR_CJOE_POSITION_TITLE"] = "Position title";
+$MESS["YNSIR_CJOE_HEADCOUNTS"] = "Headcounts";
+$MESS["YNSIR_CJOE_DIVISION_DEPARTMENT"] = "Division/ Department";
+$MESS["YNSIR_CJOE_SUPERVISOR_LINE_MANAGER"] = "Supervisor/ Line manager";
+$MESS["YNSIR_CJOE_SUBORDINATES"] = "Subordinates";
+$MESS["YNSIR_CJOE_EXPECTED_END_DATE"] = "Expected end date";
+$MESS["YNSIR_CJOE_STATUS"] = "Status";
+$MESS["YNSIR_CJOE_REQUESTER_OWNER"] = "Requester/ Owner";
+$MESS["YNSIR_CJOE_RECRUITER"] = "Recruiter";
+$MESS["YNSIR_CJOE_SENSITIVE"] = "Sensitive";
+$MESS["YNSIR_CJOE_VACANCY_REASON"] = "Vacancy reason";
+$MESS["YNSIR_CJOE_RANGE_SALARY"] = "Range salary";
+$MESS["YNSIR_CJOE_REPLACE"] = "Replace";
+$MESS["YNSIR_CJOE_NEW_OR_REPLACE_TYPE"] = "Type";
+$MESS["YNSIR_CJOE_NEW"] = "New";
+$MESS["YNSIR_CJOE_INTERVIEWS"] = "Interviews";
+$MESS["YNSIR_CJOE_ROUND"] = "Round";
+$MESS["YNSIR_CJOE_PARTICIPANTS"] = "Participants";
+$MESS["YNSIR_CJOE_NOTE"] = "Note";
+$MESS["YNSIR_CJOE_ADD_ROUND"] = "Add round";
+$MESS["YNSIR_CJOE_DESCRIPTION"] = "Description";
+$MESS["YNSIR_CJOE_TEMPLATE_CATEGORY"] = "Category";
+$MESS["YNSIR_CJOE_TEMPLATE"] = "Template";
+$MESS["YNSIR_CJOE_NONE"] = "None";
+$MESS["YNSIR_CJOE_CONTENT"] = "Content";
+$MESS["YNSIR_CJOE_SAVE_DESCRIPTION_TEMPLATE"] = "Save description template";
+$MESS["YNSIR_CJOE_SAVE_NEW"] = "Save &amp; New";
+$MESS["YNSIR_CJOE_BTN_ADD"] = "Add";
+$MESS["YNSIR_CJOE_BTN_ADD"] = "Add";
+$MESS["YNSIR_CJOE_SALARY_FROM"] = "From";
+$MESS["YNSIR_CJOE_SALARY_TO"] = "To";
+$MESS["YNSIR_CJOE_LEVEL"] = "Level";
+$MESS["YNSIR_CJOE_BTN_SUBMIT"] = "Submit";
+$MESS["YNSIR_CJOE_NOTE_SALARY"] = "Note range salary";
+
+$MESS["YNSIR_CJOE_REQUIRE_FIELD"] = "The field \"#XXX#\" is required.";
+$MESS["YNSIR_CJOE_REQUIRE_FIELD_TITLE"] = "The '#XXX#' must contain at least 10 characters.";
+$MESS["YNSIR_CJOE_REQUIRE_FIELD_HEADCOUNT"] = "This field is required and value must be greater than 0.";
+?>

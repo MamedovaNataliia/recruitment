@@ -1,0 +1,15 @@
+<?
+$MESS['YNSIR_CCE_TITLE'] = 'Ứng Viên';
+$MESS['YNSIR_CCE_EDIT'] = 'Sửa';
+$MESS['YNSIR_CCE_NEW'] = 'Mới';
+$MESS['YNSIR_CCE_SAVE'] = 'Lưu';
+$MESS["YNSIR_ERROR_ADDITIONAL_FIELD"] = "Trường \"#FIELD#\" không hợp lệ.  ";
+
+$MESS["YNSIR_TYPE_CONTENT_DATE"] = "";
+$MESS["YNSIR_TYPE_CONTENT_STRING"] = "";
+$MESS["YNSIR_TYPE_CONTENT_NUMBER"] = "";
+$MESS["YNSIR_TYPE_CONTENT_USER"] = "";
+$MESS["YNSIR_PERMISSION_DENIED"] = "Truy cập bị từ chối";
+$MESS['YNSIR_EDIT_ELEMENT_NOT_FOUND'] = 'Không tìm thấy ứng viên.';
+
+?>

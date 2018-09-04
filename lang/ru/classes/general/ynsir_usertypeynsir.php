@@ -1,0 +1,6 @@
+<?
+$MESS["USER_TYPE_YNSIR_DESCRIPTION"] = "Bind To YNSIRecruitment Elements";
+$MESS["USER_TYPE_CRM_ENTITY_TYPE"] = "Available entity";
+$MESS["USER_TYPE_CRM_ENTITY_TYPE_CANDIDATE"] = "Candidate";
+$MESS["USER_TYPE_CRM_ENTITY_TYPE_JOBORDER"] = "Job Order";
+?>

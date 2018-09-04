@@ -1,0 +1,22 @@
+<?
+$MESS["YNSIR_FIELD_COMPARE"] = "Changed \"#FIELD#\"";
+$MESS["YNSIR_ADDITIONAL_FIELD_COMPARE"] = "Changed the Additional field \"#FIELD#\"";
+$MESS["YNSIR_ADDITIONAL_FIELD_COMPARE_ADD"] = "Add the field \"#FIELD#\"";
+$MESS["YNSIR_ADDITIONAL_FIELD_COMPARE_REMOVE"] = "Remove the field \"#FIELD#\"";
+$MESS["YNSIR_FIELD_COMPARE_EMPTY"] = "-Empty-";
+$MESS["YNSIR_FIELD_COMPARE_MALE"] = "Male";
+$MESS["YNSIR_FIELD_COMPARE_FEMALE"] = "Female";
+
+$MESS["YNSIR_FIELD_OPTION_YES"] = "Yes";
+$MESS["YNSIR_FIELD_OPTION_NO"]  = "No";
+
+$MESS["YNSIR_ADD_ASSOCIATE_CANDIDATE"]  = "Associate new Candidate";
+$MESS["YNSIR_ADD_ASSOCIATE_OBORDER"]  = "Associate new Job Order";
+$MESS["YNSIR_UN_ASSOCIATE_CANDIDATE"]  = "UnAssociate Candidate";
+$MESS["YNSIR_UN_ASSOCIATE_JOBORDER"]  = "UnAssociate Job Order";
+$MESS["YNSIR_ROUND_LABEL"] = "Round #ROUND_INDEX#";
+$MESS["YNSIR_NOTIFY_ASSOCIATED"] = "#USER_NAME# associated #JOB_TITLE# with new candidate.";
+$MESS["YNSIR_NOTIFY_STATUS_ACCEPT_OFFER"] = "Candidate #CANDIDATE_NAME# accept offer of #JOB_TITLE#.";
+$MESS["YNSIR_NOTIFY_STATUS_REJECT_OFFER"] = "Candidate #CANDIDATE_NAME# reject offer of #JOB_TITLE#.";
+$MESS["YNSIR_NOTIFY_STATUS_CLOSE"] = "#JOB_TITLE# closed.";
+?>

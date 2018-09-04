@@ -1,0 +1,121 @@
+.view-report-wrapper .view-report-wrapper-inner {display: none;}
+.view-report-wrapper .active {display: block;}
+.crm-configs-error-container{color:red; padding-left: 10px;}
+.feed-add-success {
+	margin-right: 2px;
+	background-color: #d9ffd4;
+	padding: 19px 15px 16px;
+	position: relative;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.feed-add-error, .feed-add-success{
+	margin-top: 7px;
+}
+.feed-add-success-add:before {
+	background: url(/bitrix/components/hrm/configs/images/live_feed_sprite_6.png?3) no-repeat -105px -83px;
+	display: inline-block;
+	height: 21px;
+	margin-right: 10px;
+	vertical-align: top;
+	width: 23px;
+	content: "";
+}
+
+.feed-add-success-delete:before
+{
+	background: url(/bitrix/components/hrm/configs/images/live_feed_sprite_6.png?3) no-repeat -105px -56px;
+	display: inline-block;
+	height: 21px;
+	margin-right: 10px;
+	vertical-align: top;
+	width: 30px;
+	content: "";
+}
+.feed-add-successfully, .feed-add-error, .task-message-label {
+	padding: 19px 15px 16px;
+	position: relative;
+	text-align: center;
+}
+
+.crm-transaction-stage .crm-status-content
+{
+	display: none;
+}
+.crm-transaction-stage .crm-status-content.active
+{
+	display: block;
+}
+
+.view-report-wrapper-inner-title {
+	text-transform: capitalize;
+}
+
+.hrm-report-list-back:before {
+	content: '';
+	background: url(/bitrix/js/hrm/images/lists-back.svg) no-repeat;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+	width: 11px;
+	height: 13px;
+}
+.hrm-report-list-back{
+	position: relative;
+	font-size: 12px;
+	color: #535c69;
+	font-family: 'OpenSans-Regular','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-right: 20px;
+	padding-left: 18px;
+}
+.hrm-report-list-back:hover{
+	color:#535c69
+}
+
+.pagetitle-align-right-container-request {
+	margin-left: 5px;
+	padding-left: 7px;
+	padding-right: 7px;
+}
+
+.pagetitle-align-right-container-edit > a, .pagetitle-align-right-container-request > a {
+	color: white;
+}
+
+.pagetitle-align-right-container-edit > a:hover, .pagetitle-align-right-container-request > a:hover{
+	color: white;
+}
+
+.pagetitle-align-right-container-edit:hover{
+	background: #3fddff;
+	color: #fff;
+}
+
+.ynsir-candidate-detail-back:before {
+	content: '';
+	background: url(/bitrix/js/ynsirecruitment/images/lists-back.svg) no-repeat;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+	width: 11px;
+	height: 13px;
+}
+.ynsir-candidate-detail-back{
+	position: relative;
+	font-size: 12px;
+	color: #535c69;
+	font-family: 'OpenSans-Regular','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-right: 20px;
+	padding-left: 18px;
+}
+.ynsir-candidate-detail-back:hover{
+	color:#535c69
+}

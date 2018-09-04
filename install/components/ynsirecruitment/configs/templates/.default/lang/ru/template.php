@@ -1,0 +1,23 @@
+<?
+$MESS['YNSIR_SETTING_TITLE'] = 'Settings';
+$MESS['YNSIR_SETTING_GENERAL_TITLE'] = 'General';
+$MESS['YNSIR_SETTING_GENERAL_CONTENT'] = '';
+$MESS['YNSIR_SETTING_GENERAL_LISTS'] = 'Lists';
+$MESS['YNSIR_SETTING_TYPE_LIST_TITLE'] = 'Lists';
+$MESS['YNSIR_SETTING_TYPE_LIST_CONTENT'] = '';
+$MESS['YNSIR_SETTING_PERMISSION_TITLE'] = 'Permissions';
+$MESS['YNSIR_SETTING_PERMISSION_CONTENT'] = 'Before you start: Make sure you want to assign permission.';
+$MESS['YNSIR_SETTING_PERM_RECRUITMENT'] = 'Recruitment';
+$MESS['YNSIR_CONFIGS_NO_ACCESS_ERROR'] = 'Access denied';
+$MESS['YNSIR_SETTING_GENERAL_JOB_ORDER_TEMPLATE'] = 'Job order template';
+$MESS['YNSIR_SETTING_GENERAL_BIZPROC_TEMPLATE'] = 'Bizproc template';
+$MESS['YNSIR_SETTING_GENERAL_HR_MANAGER'] = 'HR manager';
+$MESS['YNSIR_SETTING_GENERAL_CONFIGS_TEMPLATE'] = 'Other Configs';
+
+$MESS['YNSIR_SETTING_AUTOMATION_TITLE'] = 'Automation';
+$MESS['YNSIR_SETTING_AUTOMATION_CONTENT'] = 'Automate client related jobs: use Workflows to have the system process approve job, scan CV.';
+$MESS['YNSIR_SETTING_BUSSINESS_PROCESS'] = 'Bussiness processes';
+$MESS['YNSIR_SETTING_EMAIL'] = 'Email';
+$MESS['YNSIR_EMAIL_TEMPLATE'] = 'Email templates
+';
+?>

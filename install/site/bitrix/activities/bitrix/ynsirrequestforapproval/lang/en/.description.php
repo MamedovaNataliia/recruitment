@@ -1,0 +1,15 @@
+<?
+$MESS["BPRIORA_DESCR_NAME"] = "Request Job Order";
+$MESS["BPRIORA_DESCR_DESCR"] = "Request Job Order";
+
+$MESS["YNSIT_LABLE_OJOB_ORDER_ID"] = "Job Order ID";
+$MESS["YNSIT_LABLE_OJOB_ORDER_TITLE"] = "Job Order Title";
+$MESS["YNSIT_LABLE_OCOMMENT"] = "Comment";
+$MESS["YNSIT_LABLE_ODETAIL_LINK"] = "Detail Link";
+$MESS["YNSIT_LABLE_OINTEGRATION_TIME"] = "Integration Time";
+$MESS["YNSIT_LABLE_ODATE_TIME_FORMAT"] = "Date Time Format";
+$MESS["YNSIT_LABLE_OUSER_REQUEST"] = "Requester ID";
+$MESS["YNSIT_LABLE_OUSER_REQUESTER"] = "Requester";
+$MESS["YNSIT_LABLE_OPROCESS_STATUS"] = "Process Status";
+$MESS["YNSIT_LABLE_OERROR_CODE"] = "Error Code";
+?>

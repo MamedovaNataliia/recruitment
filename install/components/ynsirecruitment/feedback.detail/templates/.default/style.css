@@ -1,0 +1,23 @@
+.edit-form-field-name{
+    vertical-align:top;
+    padding-top: 10px;
+}
+.error {
+    font-weight: bold;
+    color: #900;
+}
+#popupAddFeedback .feed-add-post-form{
+    border: solid 1px #b8bcbe;
+}
+.starrequired
+{
+    color:#FF0000;
+}
+.task-detail-description{
+    word-wrap: break-word;
+    padding-bottom: 30px;
+    min-height: 80px;
+    overflow-x: auto;
+    padding: 15px 0;
+    border-bottom: 1px solid rgba(234,235,237,.78);
+}

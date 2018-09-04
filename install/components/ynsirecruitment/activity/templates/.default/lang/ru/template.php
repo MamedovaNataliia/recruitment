@@ -1,0 +1,37 @@
+<?
+$MESS['LIST_COLOR_TITLE'] = 'List color';
+$MESS['LIST_COLOR_CREATE'] = 'Create new color';
+$MESS['ADD_COLOR_EMPTY_NAME'] = 'Name is required field.';
+$MESS['ADD_COLOR_EMPTY_CODE'] = 'Code is required field.';
+$MESS['ADD_COLOR_EMPTY_HEX'] = 'Hex code is required field.';
+$MESS['ADD_COLOR_SHORT_NAME'] = 'Please input color name >= 2 characters.';
+$MESS['ADD_COLOR_EXIST_CODE'] = 'Color code is exist';
+$MESS['ADD_COLOR_INVALID_HEX'] = 'HEX code is invalid';
+$MESS['ADD_COLOR_INVALID_LENGTH_CODE'] = 'Color code must consist of 5-15 character';
+$MESS['ADD_COLOR_CODE_HAVE_SPACE'] = 'Color code can not contain spacing.';
+$MESS['ADD_COLOR_CODE_HAVE_SPECIAL_CHARACTER'] = 'Code can not contains special characters';
+$MESS['SUP_CONFIRM_DELETE'] = 'Are you sure to delete this color?';
+$MESS['SUP_DELETE'] = 'Delete Color!';
+$MESS['IMPORT_COLOR'] = 'Import color';
+$MESS['IMPORT_COLOR_FROM_FILE'] = 'Import from file';
+$MESS['EXPORT_COLOR_TO_FILE'] = 'Export to file';
+$MESS['SELECT_FILE_IMPORT'] = 'Select file import';
+$MESS['FILE_IMPORT_EMPTY'] = 'Please, select file to import';
+$MESS['BUTTON_IMPORT_TEXT'] = 'Import';
+$MESS['BUTTON_CANCEL_TEXT'] = 'Cancel';
+$MESS['BUTTON_DELETE_TEXT'] = 'Delete';
+$MESS['NAME'] = 'NAME';
+$MESS['CODE'] = 'CODE';
+$MESS['IMAGE'] = 'IMAGE';
+$MESS['HEX'] = 'HEX';
+$MESS['ACTIVATE'] = 'ACTIVATE';
+$MESS['DH_COLOR_NAME'] = 'NAME';
+$MESS['DH_COLOR_CODE'] = 'CODE';
+$MESS['DH_COLOR_IMAGE'] = 'IMAGE';
+$MESS['DH_COLOR_HEX'] = 'HEX';
+$MESS['Total'] = 'Total';
+$MESS['FILE_SUPPORTED'] = 'Support file with extension *.xls, *xlsx, *.csv';
+$MESS['BUTTON_SAVE_TEXT'] = 'Save-dd';
+$MESS['ADD_COLOR'] = 'Add Color';
+$MESS['IMPORT_MAX_SIZE_HINT'] = 'Max file size for excel file upload: #MAX_SIZE# MB';
+?>

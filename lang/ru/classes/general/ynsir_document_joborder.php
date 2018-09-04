@@ -1,0 +1,10 @@
+<?
+$MESS['YNSIR_FIELD_ID'] = 'Id';
+$MESS['YNSIR_FIELD_TITLE'] = 'Title';
+$MESS['YNSIR_FIELD_STATUS_ID'] = 'Status';
+$MESS['YNSIR_FIELD_DATE_CREATE'] = 'Date created';
+$MESS['YNSIR_FIELD_DATE_MODIFY'] = 'Date modified';
+$MESS['YNSIR_FIELD_CREATED_BY_ID'] = 'Created by';
+$MESS['YNSIR_FIELD_MODIFIED_BY_ID'] = 'Modified by';
+$MESS['YNSIR_FIELD_SALARY_FROM'] = 'Salary from';
+$MESS['YNSIR_FIELD_SALARY_TO'] = 'Salary to';

@@ -1,0 +1,22 @@
+<?
+$MESS["YNSIR_ACTION_DEFAULT_SUBJECT"] = "Hành động mới (#DATE#)";
+$MESS["YNSIR_CALL_ACTION_DEFAULT_SUBJECT"] = "Cuộc gọi mới (#DATE#)";
+$MESS["YNSIR_MEETING_ACTION_DEFAULT_SUBJECT"] = "Trả lời mới (#DATE#)";
+$MESS["YNSIR_EMAIL_ACTION_DEFAULT_SUBJECT"] = "Thư điện tử mới (#DATE#)";
+$MESS["YNSIR_TITLE_EMAIL_SUBJECT"] = "Chủ đề";
+$MESS["YNSIR_TITLE_EMAIL_FROM"] = "Từ";
+$MESS["YNSIR_TITLE_EMAIL_TO"] = "Tới";
+$MESS["YNSIR_COMMUNICATION_TAB_LEAD"] = "Đầu mối kinh doanh";
+$MESS["YNSIR_COMMUNICATION_TAB_DEAL"] = "Đơn hàng";
+$MESS["YNSIR_COMMUNICATION_TAB_COMPANY"] = "Công ty";
+$MESS["YNSIR_COMMUNICATION_TAB_CONTACT"] = "Liên hệ";
+$MESS["YNSIR_ACTIVITY_EMAIL_EMPTY_FROM_FIELD"] = "Vui lòng xác định người gửi tinh nhắn";
+$MESS["YNSIR_ACTIVITY_EMAIL_EMPTY_TO_FIELD"] = "Vui lòng xác định người nhận tin nhắn";
+$MESS["YNSIR_ACTIVITY_INVALID_EMAIL"] = "'#VALUE# không phải là một thư điện tử hợp lệ";
+$MESS["YNSIR_ACTIVITY_RESPONSIBLE_NOT_FOUND"] = "Không thể tìm thấy người dùng đáng tin cậy cho hành động này.";
+$MESS["YNSIR_INCOMING_CALL_ACTION_DEFAULT_SUBJECT_EXT"] = "Cuộc gọi đến #TITLE#";
+$MESS["YNSIR_OUTGOING_CALL_ACTION_DEFAULT_SUBJECT_EXT"] = "Cuộc gọi đi #TITLE#";
+$MESS["YNSIR_MEETING_ACTION_DEFAULT_SUBJECT_EXT"] = "Trả lời với #TITLE#";
+$MESS["YNSIR_PERMISSION_DENIED"] = "Truy cập bị từ chối";
+$MESS["YNSIR_EMAIL_ACTION_DEFAULT_DESCRIPTION"] = "[không ký tự ]";
+?>

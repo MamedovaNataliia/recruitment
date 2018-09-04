@@ -1,0 +1,26 @@
+.main-grid-buttons.icon.grid_associate_button::before, .main-grid-buttons.icon.edit::before {
+    left: 12px;
+}
+.main-grid-buttons.icon.grid_associate_button::before {
+    background-position: 3px -111px;
+}
+.main-grid-buttons.icon.grid_associate_button{
+    width: auto;
+    padding-left: 24px;
+    line-height: normal;
+}
+#YNSI_CANDIDATE_LIST_INTERNAL_search_container {
+    margin-top: 0 !important;
+}
+.ynsir-associate-candidate-lock-detail {
+    /*padding-left:px;*/
+}
+.ynsir-associate-candidate-lock-detail::before{
+    content: '';
+    height: 15px;
+    background: url(images/recruitment_control_panel.png) 36px -1474px;
+    width: 15px;
+    position: absolute;
+    left: -20px;
+    top:-2px;
+}

@@ -1,0 +1,25 @@
+.main-grid-buttons.icon.grid_associate_button::before, .main-grid-buttons.icon.edit::before {
+    left: 12px;
+}
+.main-grid-buttons.icon.grid_associate_button::before {
+    background-position: 3px -111px;
+}
+.main-grid-buttons.icon.grid_associate_button{
+    width: auto;
+    padding-left: 24px;
+    line-height: normal;
+}
+#YNSI_JOB_ORDER_LIST_INTERNAL_search_container {
+    margin-top: 0 !important;
+}
+.ynsir-unlock-warning {
+    padding:10px 5px;
+}
+
+/*
+.main-grid-settings-window-list-item-label{
+    text-transform: lowercase;
+}
+.main-grid-settings-window-list-item-label:first-letter{
+    text-transform: uppercase;
+}*/

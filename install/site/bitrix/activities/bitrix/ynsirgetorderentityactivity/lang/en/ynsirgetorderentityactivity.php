@@ -1,0 +1,10 @@
+<?
+$MESS["YNSIR_ACTIVITY_LABLE_SELECT_FIELDS"] = "Select fields:";
+$MESS["YNSIR_ACTIVITY_ERROR_DT"] = "Incorrect document type.";
+$MESS["YNSIR_ACTIVITY_ERROR_FIELD_REQUIED"] = "The field '#FIELD#' is required.";
+$MESS["YNSIR_ACTIVITY_ERROR_FIELD_TYPE"] = "The field '#FIELD#' specifies incorrect type.";
+$MESS["YNSIR_ACTIVITY_ERROR_ENTITY_ID"] = "Job Order ID";
+$MESS["YNSIR_ACTIVITY_ERROR_ENTITY_ID_NOT_FOUND"] = "Job Order ID: #ENTITY_ID# not found ";
+$MESS["YNSIR_ACTIVITY_FIELD_MAIN_YES"] = "Yes";
+$MESS["YNSIR_ACTIVITY_FIELD_MAIN_NO"] = "No";
+?>

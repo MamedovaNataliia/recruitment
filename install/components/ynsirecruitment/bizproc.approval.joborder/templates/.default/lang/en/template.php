@@ -1,0 +1,9 @@
+<?
+$MESS['YNSIR_TITLE_JOB_ORDER'] = 'Job Order';
+$MESS['YNSIR_TITLE_COMMENT'] = 'Comment';
+$MESS['YNSIR_NOT_SPECIFIED'] = 'Not specified';
+$MESS['YNSIR_TITLE_JOB_ORDER_LINK'] = 'Link';
+$MESS['YNSIR_TITLE_JOB_ORDER'] = 'Job Order';
+$MESS['YNSIR_TITLE_JOB_ORDER_REQUESTER'] = 'Requester';
+
+?>

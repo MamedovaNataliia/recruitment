@@ -1,0 +1,18 @@
+<?
+$MESS["YNSIR_FIELD_COMPARE"] = "Changed the field \"#FIELD#\"";
+$MESS["YNSIR_ADDITIONAL_FIELD_COMPARE"] = "Changed the Additional field \"#FIELD#\"";
+$MESS["YNSIR_ADDITIONAL_FIELD_COMPARE_ADD"] = "Add the field \"#FIELD#\"";
+$MESS["YNSIR_ADDITIONAL_FIELD_ADD_ROUND"] = "Add new round interview";
+$MESS["YNSIR_ADDITIONAL_FIELD_REMOVE_ROUND"] = "Remove round interview";
+$MESS["YNSIR_ADDITIONAL_FIELD_COMPARE_REMOVE"] = "Remove the field \"#FIELD#\"";
+$MESS["YNSIR_FIELD_COMPARE_EMPTY"] = "-Empty-";
+
+$MESS["YNSIR_FIELD_OPTION_YES"] = "Yes";
+$MESS["YNSIR_FIELD_OPTION_NO"]  = "No";
+$MESS["YNSIR_FIELD_TYPE_NEW"] = "New";
+$MESS["YNSIR_FIELD_TYPE_REPLACE"]  = "Replace";
+$MESS["YNSIR_FIELD_LABEL_NOTE"]  = "Note: #NOTE#";
+$MESS["YNSIR_ROUND_LABEL"] = "Round #ROUND_INDEX#";
+$MESS["YNSIR_CANT_CHANGE_JO_STATUS"] = 'Can\'t change from #OLD_STATUS# to #NEW_STATUS#';
+$MESS["YNSIR_NOT_FOUND_JO"] = 'Job Order is not found!';
+?>

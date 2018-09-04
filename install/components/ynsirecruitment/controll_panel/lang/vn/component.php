@@ -1,0 +1,11 @@
+<?
+$MESS['CONTROLL_PANEL_BTN_ORDER'] = 'Yêu cầu mẫu';
+$MESS['CONTROLL_PANEL_BTN_PRODUCT'] = 'Cấu trúc mẫu';
+$MESS['CONTROLL_PANEL_BTN_MATERIAL'] = 'Vật tư';
+$MESS['CONTROLL_PANEL_BTN_STOCK'] = 'Kho vật tư';
+$MESS['CONTROLL_PANEL_BTN_SETTING'] = 'Cấu hình';
+$MESS['CONTROLL_PANEL_BTN_MORE'] = 'Thêm...';
+$MESS['SUBMENU_YNSIR_CANDIDATE'] = 'Danh Sách Ứng Viên';
+$MESS['SUBMENU_YNSIR_JOB_ORDER'] = 'Danh Sách Tuyển Dụng';
+$MESS['SUBMENU_YNSIR_CONFIG'] = 'Cấu Hình';
+?>

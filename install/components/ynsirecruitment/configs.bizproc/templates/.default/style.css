@@ -1,0 +1,25 @@
+.element-error{
+    border: 1px solid red;
+}
+.ynsirecruitment-setting-success{
+    background-color: #bbed23;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    color: #545c6a;
+}
+.error{
+    color: red;
+    font-size: 12px;
+    padding-top: 10px;
+}
+.bx-edit-table {
+    padding: 30px;
+}
+.bx-field-name-bizproc{
+    width: 45% !important ;
+    vertical-align: top;
+    font: bold 12px/15px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #555;
+}
